@@ -8,7 +8,7 @@
     "dayjs": "^1.8.26",
     "eslint-loader": "^4.0.0",
     "material-icons": "^0.5.2",
-    "sanitize-html": "^1.23.0",
+    "sanitize-html": "^2.3.2",
     "vee-validate": "^3.3.0",
     "vue": "^2.6.11",
     "vue-analytics": "^5.22.1",
